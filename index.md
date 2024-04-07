@@ -10,7 +10,7 @@ Here are some basic facts about me!
 - **Major:** Computer Science
 - **Minor:** Business Economics
 - **Hometown:** San Francisco Bay Area
-  - Look at [SF's skyline]()! 
+  - Look at [SF's skyline](index/sf_skyline.jpeg)! 
 - **Favorite Programming Language:** Java
   - An example of concatenating Strings in Java:
   ```java
@@ -33,7 +33,7 @@ Here are some basic facts about me!
 > 
 > \- Anthony Doerr, *[All the Light We Cannot See](https://www.goodreads.com/en/book/show/18143977)*
 > 
-> ![Image]()
+> ![Image](index/quote_source.jpeg)
   
 ## Relevant Coursework
 Some of my relevant [CSE coursework](https://catalog.ucsd.edu/courses/CSE.html) ranked in terms of *favorite to least favorite*!
