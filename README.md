@@ -1,2 +1,2 @@
-# cse110-page
-https://annamlee.github.io/cse110-page/
+# Lab 1 - Anna Lee
+https://annamlee.github.io/sp24-cse110-lab1/
